@@ -27,3 +27,7 @@ Nginx sert des pages Web aux utilisateurs.
 
 
 ![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/1ff52982-c220-480d-9d9c-b7d2750d07c0)
+
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/80eaf381-8efc-4377-bdb5-b9edcf8539e1)
+
