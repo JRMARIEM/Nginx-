@@ -24,3 +24,6 @@ YAML : langage de sérialisation de données utilisé pour les playbooks Ansible
 Ansible automatise les tâches sur les serveurs distants à l'aide de playbooks.
 
 Nginx sert des pages Web aux utilisateurs.
+
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/1ff52982-c220-480d-9d9c-b7d2750d07c0)
