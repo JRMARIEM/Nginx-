@@ -25,9 +25,21 @@ Ansible automatise les tâches sur les serveurs distants à l'aide de playbooks.
 
 Nginx sert des pages Web aux utilisateurs.
 
+## Ansible installed
+`Sudo apt update`
+
+`sudo apt upgrade`
+
+`sudo apt install ansible`
 
 ![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/1ff52982-c220-480d-9d9c-b7d2750d07c0)
 
 
-![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/80eaf381-8efc-4377-bdb5-b9edcf8539e1)
+# STEP 2 CREATE ANSIBLE INVENTORY
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/b47cb9cd-9016-4233-877f-76a0e10cc544)
+
+
+
+
+
 
