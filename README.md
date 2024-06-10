@@ -35,8 +35,34 @@ Nginx sert des pages Web aux utilisateurs.
 ![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/1ff52982-c220-480d-9d9c-b7d2750d07c0)
 
 
-# STEP 2 CREATE ANSIBLE INVENTORY
+# STEP 1 CREATE ANSIBLE INVENTORY
+
+` vi inventory`
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/4050461c-9e3b-4536-a26a-91487b0850d1)
+
+* PING ALL THE HOSTS
+
+
 ![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/b47cb9cd-9016-4233-877f-76a0e10cc544)
+
+# STEP 2 : CREATE ANSIBLE PLAYBOOK
+
+Create nginx-playbook.yml playbook defining tasks:
+
+`vi inginx.yml`
+
+# Run Ansible Playbook
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/d4a820d6-b01f-4d47-8466-c9ba0bc92112)
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/d38f2a48-8ac7-4aa4-8410-96aeaa8c5285)
+
+# TEST
+NOW Goto web browser and type in localhost/hello-world/
+
+![image](https://github.com/JRMARIEM/Nginx-/assets/161127704/a5942c7b-9b06-427b-be51-7f427956e540)
+
 
 
 
